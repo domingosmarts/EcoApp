@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "227568813177",
+    "firebase_url": "https://ecoapp-tcc.firebaseio.com",
+    "project_id": "ecoapp-tcc",
+    "storage_bucket": "ecoapp-tcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227568813177:android:b8403a19f6697839",
+        "android_client_info": {
+          "package_name": "com.example.ericmartins.ecoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227568813177-haboklkbai73oc6jtkckfvlmmb67fmug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ericmartins.ecoapp",
+            "certificate_hash": "875e85f40514793bc3afc4e15e063078511e00d1"
+          }
+        },
+        {
+          "client_id": "227568813177-e6etataulm9uq5t1hhmrg2bqd8d6o1sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTg-wP5_sMU_lyBPdM9HzqWUFvq8HNaYI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227568813177-e6etataulm9uq5t1hhmrg2bqd8d6o1sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
